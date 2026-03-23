@@ -45,9 +45,6 @@ pip-delete-this-directory.txt
 .env.*.local
 
 # Data & Models
-data/embeddings.npy
-data/*.csv
-data/*.pkl
 chroma_db/
 
 # HuggingFace Cache
